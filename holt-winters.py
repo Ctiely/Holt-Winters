@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Liu Yang, Renmin University of China
+@author: Ctiely, Renmin University of China
 @Email:  814868906@qq.com
 
 """
