@@ -1,5 +1,5 @@
 # Holt-Winters
-基于网格搜寻最优值的Holt-Winters算法
+基于网格搜寻最优值的Holt-Winters算法\n
 借鉴github作者etlundquist编写的HoltWinters算法,加之自己的改进编写而成。
 原作者网址:https://github.com/etlundquist/holtwint
 该类以数据挖掘思想作为背景,将时间序列划分为训练集和测试集,目的是为了寻找到合适的参数alpha,beta和gamma。
